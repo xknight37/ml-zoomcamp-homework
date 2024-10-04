@@ -1,8 +1,10 @@
 # ml-zoomcamp
 
-#Observations
+## Observations
 
-# Timeline Comments
+## Timeline Comments
+
+### Module 1
 
 -   Missed the deadline to submit Homework 1
 -   Working on the first and second one
@@ -11,5 +13,7 @@
 -   Completed Module 1
 -   working on Homework 1
 -   Completed Homework 1
+
+### Module 2
 
 -   Started Module 2 videos
