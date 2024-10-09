@@ -17,3 +17,5 @@
 ### Module 2
 
 -   Started Module 2 videos
+-   Completed Module 2 videos
+-   Started Module 2 Homework
