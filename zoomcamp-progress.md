@@ -19,3 +19,4 @@
 -   Started Module 2 videos
 -   Completed Module 2 videos
 -   Started Module 2 Homework
+-   Still working on Module 2 Homework
